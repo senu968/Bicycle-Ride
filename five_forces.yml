@@ -1,0 +1,96 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Also, beware of ':' and quotation mark
+# characters: these have meaning in YAML and so must be "escaped" by
+# enclosing the entire field in (single) quotation marks, or using the multi-line string formatting characters ('|' for preserving newlines, '>' for folding newlines).
+# See the YAML specification  (https://yaml.org/spec/1.2.2/) or the wikipedia page about YAML (https://en.wikipedia.org/wiki/YAML).
+# Also, Educative has a nice YAML tutorial (https://www.educative.io/blog/yaml-tutorial) that gives a nice rationale for learning YAML.
+
+# Do NOT use Windows Notepad to edit this file; use a real programming
+# editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group: Referred Group project 18
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Udawattage Dona Senumi Malmudu Gunatunga]
+
+# Write a short description of your application
+topic: >
+  "Bicycle Ride" A campus-based bicycle hire service that allows students and staff
+  to rent bicycles for short-term use via a mobile app. The system
+  includes GPS tracking, digital locks, and usage analytics.
+  
+# For the following sections, you may write multiple paragraphs, each
+# with multiple lines, under the key. But be sure *every* line is
+# indented at the same level as the first line under the key (see
+# `example.yml` for examples).
+
+# Note that the '>' character means the text spanning multiple lines
+# should be concatenated into a single paragraph.  Paragraphs are
+# separated by blank lines, and *all* lines must be indented.
+
+# Write your assessment of the rivalry between existing competitors.
+competitor_rivalry: >
+  Competition among bicycle hire services is increasing with the
+  rise of sustainable transport options. On-campus, there may already
+  be services like Lime or public bike racks used by private bike owners.
+  However, few offer a seamless campus-specific system integrated with
+  student accounts and low rental rates.
+
+  The rivalry is moderate, but differentiation through convenience,
+  affordability, and university integration can help maintain a
+  competitive edge.
+
+# Write your assessment of the threat of new entrants.
+new_entrant_threat: >
+  The entry barriers are moderate. While it's easy to start a bike
+  rental operation with enough capital, establishing infrastructure
+  like charging stations (for e-bikes), software integration, and
+  campus partnerships takes time and negotiation.
+
+  New entrants would need to offer better pricing or service to
+  compete, and this can be difficult without volume or subsidies.
+
+# Write your assessment of the threat of substitute products or services.
+substitute_threat: >
+  Substitute products include walking, skateboards, personal bicycles,
+  electric scooters, and ride-share services such as Uber.
+
+  While these substitutes provide flexibility, they may lack the
+  affordability and eco-friendliness of a dedicated on-campus bike
+  system. Still, in poor weather or for longer distances, users may
+  prefer substitutes.
+
+# Write your assessment of the bargaining power of customers.  
+customer_power: >
+  Students and staff have alternative modes of transport, giving them
+  moderate bargaining power. If the service is not convenient,
+  reliable, or fairly priced, they can easily switch to walking or
+  using personal bikes.
+
+  However, if the service is deeply embedded in the university’s
+  transport infrastructure, individual customer power decreases due to
+  system lock-in and convenience.
+
+# Write your assessment of the bargaining power of suppliers.
+supplier_power: >
+  Suppliers include bike manufacturers, app developers, and lock
+  hardware providers. While there are many suppliers, switching costs
+  can be high due to system integration and branding.
+
+  If using e-bikes, battery or charging hardware suppliers might have
+  more leverage. However, sourcing from multiple vendors can help
+  reduce dependency.
+
+# Write your conclusion regarding the appropriate competitive strategy to pursue, based on
+# your assessments above.
+competitive_strategy: >
+  The appropriate strategy is *differentiation through convenience and
+  integration*. By building a campus-specific app, linking with
+  student credentials, and offering real-time availability and support,
+  the service can stand apart from general public alternatives.
+
+  Additionally, a focus on eco-friendliness, cost-effectiveness, and
+  integration with university transport goals creates a niche that is
+  hard for generic providers to replicate quickly.
