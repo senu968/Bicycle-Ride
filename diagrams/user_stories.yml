@@ -1,0 +1,16 @@
+topic: >
+  User Stories for each Actor in the system.
+
+customer_user_stories: |
+  As a Customer, I want to register for an account, because I need to rent bikes online.
+  As a Customer, I want to search and book a bicycle, because I want to reserve one in advance.
+  As a Customer, I want to view my rental history, because I want to track my past trips.
+
+maintenance_user_stories: |
+  As a Maintenance Staff, I want to mark a bicycle as under maintenance, because I need to remove broken bikes from circulation.
+  As a Maintenance Staff, I want to view maintenance logs, because I want to track repairs and schedules.
+
+administrator_user_stories: |
+  As an Administrator, I want to add or remove bicycles, because I need to manage fleet availability.
+  As an Administrator, I want to view usage statistics, because I want to analyze system performance.
+  As an Administrator, I want to manage user accounts, because I need to oversee system users.
