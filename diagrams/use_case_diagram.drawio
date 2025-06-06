@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="27.1.4">
+  <diagram name="Page-1" id="XOoQ6CYiv4zpS8g8aaN2">
+    <mxGraphModel dx="1188" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-1" value="Bicycle-Ride System" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="243" y="104" width="380" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-2" target="xfpPRbZNrgFNfsuIvRZ3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-2" target="xfpPRbZNrgFNfsuIvRZ3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203" y="304" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-2" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Customer&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="224" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-3" target="xfpPRbZNrgFNfsuIvRZ3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-3" target="xfpPRbZNrgFNfsuIvRZ3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-3" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Maintenance Staff&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="416" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-4" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Administrator&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="624" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-6" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Register Account&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="148" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-7" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Search and Book Bicycle&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="223" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-8" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;View Rental History&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="297" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.532;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-8" target="xfpPRbZNrgFNfsuIvRZ3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-13" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Mark Bicycle as Under Maintenance&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="374" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-15" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;View Maintenance Logs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="454" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-17" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Add/Remove Bicycle&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="534" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-18" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;View Usage Statistics&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="614" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-19" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center; color: rgb(51, 51, 51);&quot;&gt;Manage User Accounts&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="694" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-17" target="xfpPRbZNrgFNfsuIvRZ3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-18" target="xfpPRbZNrgFNfsuIvRZ3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfpPRbZNrgFNfsuIvRZ3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.539;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="xfpPRbZNrgFNfsuIvRZ3-19" target="xfpPRbZNrgFNfsuIvRZ3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
